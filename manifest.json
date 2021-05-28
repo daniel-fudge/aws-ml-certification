@@ -1,0 +1,9 @@
+{
+    "fileLocations": [{"URIs": ["https://acg-ml-certification-df.s3.amazonaws.com/sensors.csv"]}],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
